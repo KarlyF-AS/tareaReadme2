@@ -14,3 +14,4 @@
 # Conflicto en Palestina 
 ## ***inicio del conflicto***
 ### ~~dani estuvo aqui~~ 
+### -¿A quienes <sub> afecta?
