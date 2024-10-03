@@ -18,3 +18,4 @@
 ### -¿En que les afecta?
 ### -¿Podemos hacer algo?
 ### -Porcentaje de muertes (aproximado)
+### -¿Que han hecho otros paises?
