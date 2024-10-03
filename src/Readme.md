@@ -15,3 +15,5 @@
 ## ***inicio del conflicto***
 ### ~~dani estuvo aqui~~ 
 ### -¿A quienes <sub> afecta?
+### -¿En que les afecta?
+### -¿Podemos hacer algo?
