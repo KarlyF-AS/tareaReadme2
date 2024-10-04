@@ -51,7 +51,8 @@ El conflicto tiene sus raíces en el **siglo XX**, tras la partición de Palesti
 
 ***Prueba de texto Markdown***
 
-[imagen de prueba](img)
+![gato con botas.jpg](img/gato%20con%20botas.jpg)
+
 
 
 
