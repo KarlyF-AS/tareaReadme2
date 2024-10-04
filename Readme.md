@@ -44,3 +44,16 @@ El conflicto tiene sus raíces en el **siglo XX**, tras la partición de Palesti
 ```diff
 + Decenas de miles de personas han muerto desde el inicio del conflicto.
 - Más del 70% de las víctimas son civiles, incluyendo mujeres y niños.
+```
+
+
+----
+
+***Prueba de texto Markdown***
+
+[imagen de prueba](img)
+
+
+
+
+
